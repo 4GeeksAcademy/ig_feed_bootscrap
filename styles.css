@@ -1,0 +1,13 @@
+img{
+    height: 300px;
+    width: 397px;
+    display: flex;
+
+}
+button{
+    display: flex;
+    align-items: end;
+}
+.navbar-brand{
+    color:black;
+}
